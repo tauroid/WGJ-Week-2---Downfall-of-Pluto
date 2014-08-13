@@ -2,7 +2,7 @@
 
 Plutonians living in the bowels of the planet are the last to evacuate as the plutonium core becomes dangerously unstable (the surface dwellers have already left via teleporters spaced around the planet).
 
-Gameplay
+**Gameplay**
 
   * Plutonians are lifted up to the surface in groups, at multiple locations around the planet, at different times (increasing in frequency as the game goes on)
   * The player moves groups around the surface, trying to get them to the teleporters. The control scheme for this is undecided, but the player can only move one group at a time
